@@ -1,6 +1,6 @@
 module DatePicker
     exposing
-        ( Msg
+        ( Msg(..)
         , Settings
         , DateEvent(..)
         , DatePicker
